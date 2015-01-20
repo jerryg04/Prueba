@@ -1,2 +1,1 @@
-Primera version de control de versiones
-Segunda version de control de versiones
+Primea version de control de versiones
